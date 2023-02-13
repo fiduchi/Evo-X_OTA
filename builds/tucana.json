@@ -1,17 +1,17 @@
 {
-   "datetime": 1676188387,
+   "datetime": 1676278449,
    "donate_url": "",
    "error": false,
-   "filehash": "73a6af122ea1f59b6944c07f8f0e758f",
-   "filename": "evolution_tucana-ota-tq1a.230205.002-02130824-unsigned.zip",
+   "filehash": "20c333f6bbf4452a0ff2251058762b48",
+   "filename": "evolution_tucana-ota-tq1a.230205.002-02131054-unsigned.zip",
    "forum_url": "",
-   "id": "911e6bfd3327bd8ef04d0f296c3e549614f2c487f30296a56e5e0c568722fd81",
+   "id": "71731c58cf94509edd202a97cd2a736fc4878f0b437e8407b91fd2e633c584c5",
    "maintainer": "fiduchi",
    "maintainer_url": "https://github.com/fiduchi",
    "news_url": "https://t.me/EvolutionXOfficial",
-   "size": 2125297425,
+   "size": 2125258602,
    "telegram_username": "",
-   "url": "https://sourceforge.net/projects/evo-x/files/tucana/evolution_tucana-ota-tq1a.230205.002-02130824-unsigned.zip/download",
+   "url": "https://sourceforge.net/projects/evo-x/files/tucana/evolution_tucana-ota-tq1a.230205.002-02131054-unsigned.zip/download",
    "version": "Thirteen",
    "website_url": "https://evolution-x.org"
 }
